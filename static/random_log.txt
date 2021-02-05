@@ -1,0 +1,5 @@
+stattic folder log
+
+hello from static log
+
+another log change

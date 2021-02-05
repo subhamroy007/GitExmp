@@ -1,0 +1,5 @@
+*.log
+/my_logs/
+
+/static/my_logs/
+git_cmds.txt
